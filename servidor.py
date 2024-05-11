@@ -4,11 +4,7 @@
 
 
 # Custom version
-# mohist / catserver   Install forge   first
-# purpur               Install fabric  first
-# snapshot             Install vanilla first
-
-# Ngrok region
+# mohist / catserver   Install forge   first1
 # Code           Place
 #-----------     ---------------------------
 # ap	          Asia/Pacific (Singapore)
